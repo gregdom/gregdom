@@ -1,6 +1,6 @@
 ### Olá, sou o Gregory!
 
-![Gregory's GitHub stats](https://github-readme-stats.vercel.app/api?username=gregdom&show_icons=true&theme=radical)
+![Gregory's GitHub stats](https://github-readme-stats.vercel.app/api?username=gregdom&show_icons=true&theme=dark)
 
 
 ## Tecnologias do meu dia a dia:
