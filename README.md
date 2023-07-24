@@ -1,23 +1,63 @@
-### Olá, sou o Gregory!
+# <p align="center">🚀 Awesome Vue.js Developer 🚀</p>
 
-![Gregory's GitHub stats](https://github-readme-stats.vercel.app/api?username=gregdom&show_icons=true&theme=dark)
-
-
-## Tecnologias do meu dia a dia:
-
-<div style="display: inline-block"><br>
-<img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-<img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="HTML5">
-<img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="HTML5">
-<img align="center" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="HTML5">
-<img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="HTML5">
-<img align="center" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="HTML5">
-<img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="HTML5">
-<img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="HTML5">
-<img align="center" src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue" alt="HTML5">
-</div><br><br>
-
-<p>
-<q cite="https://www.pensador.com/frases_de_programador/">Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um problema.</q><br>
-<i>Thales Valentim</i>
+<p align="center">
+  <img src="https://github.com/seu-usuario/aqui-o-nome-do-repositorio/blob/main/vue-logo.png" alt="Vue.js Logo" width="200" height="200">
 </p>
+
+<p align="center">Olá, seja bem-vindo ao meu repositório! Aqui você encontrará projetos incríveis criados com Vue.js, um dos melhores frameworks JavaScript do mundo.</p>
+
+## 🌟 Sobre Mim
+
+<p align="center">
+  <img src="https://github.com/seu-usuario/aqui-o-nome-do-repositorio/blob/main/profile-pic.jpg" alt="Profile Picture" width="200" height="200">
+</p>
+
+Oi! Meu nome é [Seu Nome](link-para-o-seu-site) e sou um desenvolvedor apaixonado por Vue.js e todas as suas possibilidades. Tenho uma grande paixão por criar interfaces incríveis e dinâmicas, e o Vue.js me proporcionou a plataforma perfeita para realizar isso.
+
+## 💻 Projetos Destacados
+
+Aqui estão alguns dos meus projetos mais notáveis:
+
+1. [**Nome do Projeto 1**](link-para-o-projeto-1)
+   > Uma breve descrição do projeto 1. O que ele faz, tecnologias utilizadas, etc.
+
+   ![Project 1](https://github.com/seu-usuario/aqui-o-nome-do-repositorio/blob/main/project-1-screenshot.png)
+
+2. [**Nome do Projeto 2**](link-para-o-projeto-2)
+   > Uma breve descrição do projeto 2. O que ele faz, tecnologias utilizadas, etc.
+
+   ![Project 2](https://github.com/seu-usuario/aqui-o-nome-do-repositorio/blob/main/project-2-screenshot.png)
+
+3. [**Nome do Projeto 3**](link-para-o-projeto-3)
+   > Uma breve descrição do projeto 3. O que ele faz, tecnologias utilizadas, etc.
+
+   ![Project 3](https://github.com/seu-usuario/aqui-o-nome-do-repositorio/blob/main/project-3-screenshot.png)
+
+## 🚀 Contribuição
+
+Contribuições são sempre bem-vindas! Se você quiser contribuir com melhorias, correções de bugs ou novos recursos, fique à vontade para abrir uma **pull request**. Vou adorar trabalhar com você!
+
+## 📫 Contato
+
+Vamos manter contato! Você pode me encontrar nos seguintes canais:
+
+- **E-mail**: seu-email@provedor.com
+- **LinkedIn**: [Seu Nome](link-para-o-linkedin)
+- **Website**: [seu-usuario.github.io](link-para-o-seu-site)
+
+## 📝 Licença
+
+Este repositório está sob a licença [Nome da Licença](link-para-a-licenca). Sinta-se à vontade para explorar, fazer fork e criar seus próprios projetos baseados neste.
+
+---
+
+<p align="center">
+  Gostou do meu README? Deixe uma ⭐️ para mostrar seu apoio! 🙌
+</p>
+
+Este README foi inspirado em outros projetos fantásticos disponíveis em diversos repositórios do GitHub. Sinta-se à vontade para adaptar este modelo para o seu próprio perfil!
+
+Espero que tenha gostado do modelo! Se precisar de mais ajuda ou tiver alguma dúvida, estou aqui para ajudar. 😊
+
+---
+*Nota: Lembre-se de substituir os campos entre colchetes (`[]`) pelos seus próprios dados e links.*
