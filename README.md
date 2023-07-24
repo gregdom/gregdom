@@ -1,63 +1,43 @@
-# <p align="center">🚀 Awesome Vue.js Developer 🚀</p>
+<h1 style="padding:20px 0 16px 0;">Full Stack Developer</h1>
 
-<p align="center">
-  <img src="https://github.com/seu-usuario/aqui-o-nome-do-repositorio/blob/main/vue-logo.png" alt="Vue.js Logo" width="200" height="200">
+<!-- <p align="center">
+ <img align="center" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="HTML5">
+ <img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="HTML5">
+<img align="center" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="HTML5">
+<img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="HTML5">
+</p> -->
+
+<p style="padding:20px 0 30px 0;">
+Hello, welcome to my Github profile! Here you'll find personal projects created by me and real work I've done for some clients. Currently I work with web projects using the Vue.js framework, Vuex and Vue Router to create front-end interfaces. On the back-end I use Node.js technologies with Express and MySQL in my projects. Other technologies are also used, but these are the main ones in all my projects.
 </p>
 
-<p align="center">Olá, seja bem-vindo ao meu repositório! Aqui você encontrará projetos incríveis criados com Vue.js, um dos melhores frameworks JavaScript do mundo.</p>
+<h2 style="padding:0 0 16px 0;">Projects I loved working on</h2>
 
-## 🌟 Sobre Mim
+Here are some of my most notable projects:
 
-<p align="center">
-  <img src="https://github.com/seu-usuario/aqui-o-nome-do-repositorio/blob/main/profile-pic.jpg" alt="Profile Picture" width="200" height="200">
-</p>
+1. [**Brainy Logical | Web Development Agency**](https://github.com/gregdom/brainy-logical-spa)
 
-Oi! Meu nome é [Seu Nome](link-para-o-seu-site) e sou um desenvolvedor apaixonado por Vue.js e todas as suas possibilidades. Tenho uma grande paixão por criar interfaces incríveis e dinâmicas, e o Vue.js me proporcionou a plataforma perfeita para realizar isso.
+   > My website where I present my portfolio and offer web development services. Made with Vue, Vuex, Vue Router, Node, MySQL, etc.
 
-## 💻 Projetos Destacados
+2. [**YTBooster | Firefox Extension for YouTube**](https://addons.mozilla.org/pt-BR/firefox/addon/ytbooster/)
 
-Aqui estão alguns dos meus projetos mais notáveis:
+   > YTBooster adds new tools to YouTube, increasing productivity. Made with Vue, Vuex, Vue Router, Webpack, etc.
 
-1. [**Nome do Projeto 1**](link-para-o-projeto-1)
-   > Uma breve descrição do projeto 1. O que ele faz, tecnologias utilizadas, etc.
+<h2 style="padding:30px 0 16px 0;">Contributions</h2>
 
-   ![Project 1](https://github.com/seu-usuario/aqui-o-nome-do-repositorio/blob/main/project-1-screenshot.png)
+Contributions are always welcome! If you want to contribute with improvements, bug fixes or new features, feel free to open a **pull request**. I will love working with you!
 
-2. [**Nome do Projeto 2**](link-para-o-projeto-2)
-   > Uma breve descrição do projeto 2. O que ele faz, tecnologias utilizadas, etc.
+<h2 style="padding:30px 0 16px 0;">Contact</h2>
 
-   ![Project 2](https://github.com/seu-usuario/aqui-o-nome-do-repositorio/blob/main/project-2-screenshot.png)
+You can find me here:
 
-3. [**Nome do Projeto 3**](link-para-o-projeto-3)
-   > Uma breve descrição do projeto 3. O que ele faz, tecnologias utilizadas, etc.
+- **LinkedIn**: [/gregdom](https://www.linkedin.com/in/gregorydom/)
+- **Website**: [/brainylogical.com/contact](https://brainylogical.com/contact)
 
-   ![Project 3](https://github.com/seu-usuario/aqui-o-nome-do-repositorio/blob/main/project-3-screenshot.png)
-
-## 🚀 Contribuição
-
-Contribuições são sempre bem-vindas! Se você quiser contribuir com melhorias, correções de bugs ou novos recursos, fique à vontade para abrir uma **pull request**. Vou adorar trabalhar com você!
-
-## 📫 Contato
-
-Vamos manter contato! Você pode me encontrar nos seguintes canais:
-
-- **E-mail**: seu-email@provedor.com
-- **LinkedIn**: [Seu Nome](link-para-o-linkedin)
-- **Website**: [seu-usuario.github.io](link-para-o-seu-site)
-
-## 📝 Licença
-
-Este repositório está sob a licença [Nome da Licença](link-para-a-licenca). Sinta-se à vontade para explorar, fazer fork e criar seus próprios projetos baseados neste.
+<br/>
 
 ---
 
-<p align="center">
-  Gostou do meu README? Deixe uma ⭐️ para mostrar seu apoio! 🙌
+<p style="padding:30px 0 16px 0;">
+  Did you like my README? Give a ⭐️ to show your support! 🙌
 </p>
-
-Este README foi inspirado em outros projetos fantásticos disponíveis em diversos repositórios do GitHub. Sinta-se à vontade para adaptar este modelo para o seu próprio perfil!
-
-Espero que tenha gostado do modelo! Se precisar de mais ajuda ou tiver alguma dúvida, estou aqui para ajudar. 😊
-
----
-*Nota: Lembre-se de substituir os campos entre colchetes (`[]`) pelos seus próprios dados e links.*
