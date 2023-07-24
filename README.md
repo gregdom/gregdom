@@ -1,6 +1,6 @@
 <h1 style="padding:20px 0 22px 0;">I'm a Full Stack Developer</h1>
 
-<p align="center">
+<p>
  <img align="center" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vuejs">
  <img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node">
 <img align="center" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="HTML5">
