@@ -16,7 +16,7 @@ Hello, welcome to my Github profile! Here you'll find personal projects created 
 
 Here are some of my most notable projects:
 
-1. [**Quasar Interval Timer | Android App**](https://play.google.com/store/apps/details?id=com.quasarintervaltimer.app)
+1. [**Quasar Interval Timer | Android App**](https://github.com/gregdom/quasar-interval-timer-android-app)
 
    > The Quasar Interval Timer is an app with timer functions to help you track the time of your workouts. 
 
