@@ -16,13 +16,17 @@ Hello, welcome to my Github profile! Here you'll find personal projects created 
 
 Here are some of my most notable projects:
 
-1. [**Brainy Logical | Web Development Agency**](https://github.com/gregdom/brainy-logical-spa)
+1. [**Quasar Interval Timer**](https://play.google.com/store/apps/details?id=com.quasarintervaltimer.app)
 
-   > My website where I present my portfolio and offer web development services. Made with Vue, Vuex, Vue Router, Node, MySQL, etc.
+   > The Quasar Interval Timer is an app with timer functions to help you track the time of your workouts. 
 
 2. [**YTBooster | Firefox Extension for YouTube**](https://github.com/gregdom/ytbooster-firefox-extension)
 
    > YTBooster adds new tools to YouTube, increasing productivity. Made with Vue, Vuex, Vue Router, Webpack, etc.
+
+3. [**Brainy Logical | Web Development Agency**](https://github.com/gregdom/brainy-logical-spa)
+
+   > My website where I present my portfolio and offer web development services. Made with Vue, Vuex, Vue Router, Node, MySQL, etc.
 
 <h2 style="padding:30px 0 16px 0;">Contributions</h2>
 
